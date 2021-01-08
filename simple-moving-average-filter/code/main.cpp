@@ -48,5 +48,6 @@ int main()
             pc.printf("%lf\n",b[i]);
             //wait(100);
         }
+        key = 'a';
     }
 }
